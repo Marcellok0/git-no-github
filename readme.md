@@ -1,0 +1,1 @@
+O curso tem sido bastante interessante abordando de forma generalista a questão da programação, apesar de ser ainda tudo bem básico ainda sinto um pouco de dificuldade em me adequar aos termos, principalmente que o terminal se comporta um tanto quanto diferente do vídeo, mas vamos seguindo!
